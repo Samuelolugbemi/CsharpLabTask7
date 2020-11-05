@@ -1,0 +1,11 @@
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\bin\Debug\netcoreapp3.1\CarDealershipInventory.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\bin\Debug\netcoreapp3.1\CarDealershipInventory.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\bin\Debug\netcoreapp3.1\CarDealershipInventory.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\bin\Debug\netcoreapp3.1\CarDealershipInventory.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\bin\Debug\netcoreapp3.1\CarDealershipInventory.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\bin\Debug\netcoreapp3.1\CarDealershipInventory.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\obj\Debug\netcoreapp3.1\CarDealershipInventory.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\obj\Debug\netcoreapp3.1\CarDealershipInventory.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\obj\Debug\netcoreapp3.1\CarDealershipInventory.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\obj\Debug\netcoreapp3.1\CarDealershipInventory.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task7\CarDealershipInventory\obj\Debug\netcoreapp3.1\CarDealershipInventory.pdb
