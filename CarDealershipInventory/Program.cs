@@ -27,7 +27,7 @@ namespace CarDealerShipInventory
                     int year = Convert.ToInt32(Console.ReadLine());
 
 
-                    Console.Write("Price: ");
+                    Console.Write("Sale Price($): ");
                     decimal price = Convert.ToDecimal(Console.ReadLine());
                     car.Add(make, model, year, price);
                     sum = sum + car.SalePrice;
