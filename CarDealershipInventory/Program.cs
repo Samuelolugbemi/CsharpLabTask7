@@ -15,19 +15,19 @@ namespace CarDealerShipInventory
                 Cars car = new Cars();
                 if(action == "add")
                 {
-                    Console.WriteLine("Please enter the make of your car: ");
+                    Console.Write("Make: ");
                     string make = Console.ReadLine();
 
 
-                    Console.WriteLine("Please enter the model of the car:");
+                    Console.Write("Model:");
                     string model = Console.ReadLine();
 
 
-                    Console.WriteLine("Please enter the year: ");
+                    Console.Write("Year: ");
                     int year = Convert.ToInt32(Console.ReadLine());
 
 
-                    Console.WriteLine("Please enter the price: ");
+                    Console.Write("Price: ");
                     decimal price = Convert.ToDecimal(Console.ReadLine());
                     car.Add(make, model, year, price);
                     sum = sum + car.SalePrice;
@@ -52,7 +52,7 @@ namespace CarDealerShipInventory
                     break;
                 } else
                 {
-                    Console.WriteLine("Command Unavailable");
+                    Console.WriteLine($"Sorry, but {action} is not a valid command. Please try again.");
                 }
             }
             
